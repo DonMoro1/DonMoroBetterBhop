@@ -4,4 +4,5 @@ BetterBhop plugin.
 Features: 
 - Kill infected when moving faster than 320 units
 - 100 unit kill radius
--  Blood particle effect on kill  Requires SourceMod to work.
+-  Blood particle effect on kill
+-  Requires SourceMod to work.
